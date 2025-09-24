@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <!-- Profile Logo -->
-  <img src="[https://avatars.githubusercontent.com/u/1717114?s=96&v=4]" alt="Profile Logo" width="150"/>  
+  <img src="images/profile_logo.jpg" alt="Profile Logo" width="150"/>  
 </p>
 
 <h1 align="center">Hi 👋, I'm David Mulgrew</h1>
