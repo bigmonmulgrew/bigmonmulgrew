@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <!-- Profile Logo -->
-  <img src="[images/profile.jpg](https://avatars.githubusercontent.com/u/1717114?s=96&v=4)" alt="Profile Logo" width="150"/>  
+  <img src="[https://avatars.githubusercontent.com/u/1717114?s=96&v=4]" alt="Profile Logo" width="150"/>  
 </p>
 
 <h1 align="center">Hi 👋, I'm David Mulgrew</h1>
@@ -12,7 +12,7 @@
 ## 📸 About Me
 <p align="center">
   <!-- Actual Photo -->
-  <img src="images/profile.jp" alt="David Mulgrew Photo" width="200" style="border-radius:50%"/>
+  <img src="images/profile.jpg" alt="David Mulgrew Photo" width="200" style="border-radius:50%"/>
 </p>
 
 - 🎓 3rd year Computer Games Programming student at University of Derby  
