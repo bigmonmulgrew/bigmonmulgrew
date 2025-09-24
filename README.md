@@ -18,7 +18,7 @@
 - 🎓 3rd year Computer Games Programming student at University of Derby  
 - 💡 Researching **AI, human–AI interaction, and emerging game technologies**  
 - 🛠️ Building projects in **Unity, Unreal Engine, and Godot**  
-- 🎮 Focused on **AI-driven gameplay, multiplayer systems, and VR/AR**  
+- 🎮 Focused on **Integrating new AI technologies into game engines, tool production, and VR/AR**  
 - ✍️ Publishing research papers in computing and game dev  
 
 ---
@@ -27,32 +27,26 @@
 - 🌐 [Linktree](https://linktr.ee/bigmonmulgrew)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-mulgrew-508a09219)  
 - 🎮 [Unity Play Profile](YOUR_UNITY_PLAY_URL)  
-- 📘 [Unity Learn Profile](YOUR_UNITY_LEARN_URL)  
+- 📘 [Unity Learn Profile](https://learn.unity.com/u/bigmonmulgrew)  
 
 ---
 
 ## 🚀 Featured Projects
 Here are a few highlights from my GitHub:
 
-- **Overscoped (UE5)** – VR project with custom tooling (day/night cycle, AI toolkit)  
-  👉 [View Repo](REPO_URL)
+- **DerbyGPT** – Early version of the DerbyGPT personality system including integration into social platforms, eg Discord.  
+  👉 [View Repo](https://github.com/bigmonmulgrew/DerbyGPT)
 
-- **Mage Battler (Unity 6)** – Magic Carpet-inspired vertical slice with async multiplayer  
-  👉 [View Repo](REPO_URL)
+- **BigMonD_Games** – A collection of simple classic game clones built in Unreal Engine from my first years undergrad games module. Clones based on Pong, Peggle, Breakout and Mario
+  👉 [View Repo](https://github.com/bigmonmulgrew/BigMonD_Games)
 
-- **AI Connectors (Unity + Unreal)** – Tooling for LLM-driven NPCs and editor assistants  
-  👉 [View Repo](REPO_URL)
-
-- **OpenGL Course Framework** – 12-week teaching resource with code + theory  
-  👉 [View Repo](REPO_URL)
-
-*(Add or swap projects easily — just duplicate a bullet and update the link)*
+- **Unity Lesson Plans** – A selection of lesson plans designed to run a single day taster for Unity, written during my first year undergrad.
+  👉 [View Repo](https://github.com/bigmonmulgrew/Unity-Lesson-Plan)
 
 ---
 
 ## 📑 Research Papers
-- *Paper Title 1* – [Read Here](LINK_TO_PAPER)  
-- *Paper Title 2* – [Read Here](LINK_TO_PAPER)  
+- *Paper Title 1* – [Read Here](https://www.degruyterbrill.com/document/doi/10.1515/edu-2025-0086/html)
 
 *(More coming soon — watch this space 🚀)*
 
