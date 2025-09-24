@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <!-- Profile Logo -->
-  <img src="images/profile_logo.jpg" alt="Profile Logo" width="150"/>  
+  <img src="images/profile_logo.png" alt="Profile Logo" width="150"/>  
 </p>
 
 <h1 align="center">Hi 👋, I'm David Mulgrew</h1>
