@@ -60,19 +60,20 @@ Here are a few highlights from my GitHub:
 ---
 
 ## 🛠️ Skills
-- **Languages**: C#, C++, Python, GDScript, GLSL  
+- **Languages**: C#, C++ (Unreal, arduino, OpenGL and DirectX), Python, GDScript, html, css, php, lua, bash, batch, redstone, VBA, VB.net
 - **Game Engines**: Unity, Unreal Engine, Godot  
-- **Other**: Docker, Web Dev (PHP/JS), AI/LLM Integration  
+- **Other**: Docker, Web Dev (PHP/JS), AI/LLM Integration, Project Management,  
 
 ---
 
 ## ✨ Fun Extras
 - 🕹️ Long-time gamer and developer — blending **20 years of coding** with **game design passion**  
 - 🔬 Exploring the parallels between **AI context blindness** and autistic skill adaptation  
-- 🍳 Also into cooking, photography, and community projects 🎉  
+- 🍳 Also into cooking, wood work, and community projects 🎉  
 
 ---
 
 <p align="center">
+  <b>I am an advocate of using AI tools to do new things we could not do without them rather than replacing human creativity</b>
   <i>“Building games, tools, and research that connect people, play, and AI.”</i>
 </p>
