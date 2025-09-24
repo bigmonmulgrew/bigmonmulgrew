@@ -35,7 +35,7 @@
 Here are a few highlights from my GitHub:
 
 - **DerbyGPT** – Early version of the DerbyGPT personality system including integration into social platforms, eg Discord.  
-  👉 [View Repo](https://github.com/bigmonmulgrew/DerbyGPT)
+  👉 [View Repo](https://github.com/bigmonmulgrew/DerbyGPT) or find check out the demo Discord with the updated version [here](https://discord.gg/H958mrHcVy)
 
 - **BigMonD_Games** – A collection of simple classic game clones built in Unreal Engine from my first years undergrad games module. Clones based on Pong, Peggle, Breakout and Mario
   👉 [View Repo](https://github.com/bigmonmulgrew/BigMonD_Games)
